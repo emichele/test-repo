@@ -1,1 +1,5 @@
+<<<<<<< feature/update-text
+Adding new line to text file in feature branch
+=======
 Updating text file directly from main branch
+>>>>>>> main
